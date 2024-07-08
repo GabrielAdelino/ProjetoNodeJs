@@ -1,4 +1,4 @@
-POST http://localhost:3000/videos
+POST https://projetonodejs-ni07.onrender.com/videos
 Content-Type: application/json
 
 {
@@ -9,11 +9,11 @@ Content-Type: application/json
 
 ###
 
-GET  http://localhost:3000/videos?search=node
+GET  https://projetonodejs-ni07.onrender.com/videos?search=node
 
 ###
 
-PUT  http://localhost:3000/videos/c25b038c-f95f-4171-8c95-f2400799d2ce
+PUT  https://projetonodejs-ni07.onrender.com/videos/286147d2-1837-4982-9ae0-4f29af49fa91
 Content-Type: application/json
 
 {
@@ -24,4 +24,4 @@ Content-Type: application/json
 
 
 ###
-DELETE  http://localhost:3000/videos/c25b038c-f95f-4171-8c95-f2400799d2ce
+DELETE  https://projetonodejs-ni07.onrender.com/videos/286147d2-1837-4982-9ae0-4f29af49fa91
